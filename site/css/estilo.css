@@ -1,0 +1,8 @@
+.titulo { font-size: 24px; }
+.subtitulo { font-size: 18px; }
+.conteudo {
+    margin-top: 46px; 
+}
+.altura {
+    min-height: 60px;
+}
